@@ -1,0 +1,7 @@
+{
+  "name": "UAE VAT Toolkit",
+  "description": "A professional suite of tools for UAE VAT compliance, including TRN validation, VAT calculation, reverse charge logic, and an AI-powered tax assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
